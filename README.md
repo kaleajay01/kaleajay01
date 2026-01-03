@@ -4,7 +4,7 @@
 I am a **Computer Science student** of **BCA graduate from Deogiri College, Chh. Sambhajinagar**.  
 I enjoy building practical projects and continuously improving my skills by working on real-world problems.
 
-I am passionate about **web development and programming**, and I focus on writing clean, readable, and efficient code. I believe in learning by building and experimenting with new technologies.
+I am passionate about **web development and programming**, and I focus on keeping up with new technologies and efficient code. I believe in learning by building hands on  with new technologies.
 
 ---
 
@@ -16,7 +16,7 @@ I am passionate about **web development and programming**, and I focus on writin
 
 ---
 
-## 🚀 What I Do
+## 🚀 What i'am learning
 - Build responsive and user-friendly web projects  
 - Practice backend development using Node.js  
 - Write Python programs for problem solving and automation  
@@ -32,7 +32,9 @@ I am passionate about **web development and programming**, and I focus on writin
 ---
 
 ## 🎯 Career Goal
-To become a skilled **software developer** and contribute to meaningful projects while continuously learning and growing in the field of computer science.
+
+To become a skilled **web developer** designs and builds responsive, user-friendly websites and web applications, contributes to meaningful projects, and learns to grow new technologies in the field of computer science.
+
 
 ---
 
