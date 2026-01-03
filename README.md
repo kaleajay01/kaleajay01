@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm a Computer Science Student
 
-<!--
-**kaleajay01/kaleajay01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+I am a **Computer Science student** and a **BCA graduate from Deogiri College, Chh. Sambhajinagar**.  
+I enjoy building practical projects and continuously improving my skills by working on real-world problems.
 
-Here are some ideas to get you started:
+I am passionate about **web development and programming**, and I focus on writing clean, readable, and efficient code. I believe in learning by building and experimenting with new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+- **Frontend:** HTML, CSS  
+- **Backend:** Node.js  
+- **Programming Language:** Python  
+- **Tools & Technologies:** Git, GitHub, VS Code
+
+---
+
+## 🚀 What I Do
+- Build responsive and user-friendly web projects  
+- Practice backend development using Node.js  
+- Write Python programs for problem solving and automation  
+- Explore new technologies and improve coding skills
+
+---
+
+## 🌱 Currently Learning
+- Advanced JavaScript concepts  
+- Backend architecture and APIs  
+- Database fundamentals
+
+---
+
+## 🎯 Career Goal
+To become a skilled **software developer** and contribute to meaningful projects while continuously learning and growing in the field of computer science.
+
+---
+
+📌 *Always open to learning, collaboration, and new opportunities.*
