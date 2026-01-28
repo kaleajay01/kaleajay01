@@ -36,8 +36,10 @@ I am passionate about **web development and programming**, and I focus on keepin
 
 ## 🌱 Currently Learning
 - Advanced JavaScript concepts  
+- React.js and modern frontend development  
+- Frontend architecture and UI design  
 - Backend architecture and APIs  
-- Database fundamentals
+- Database fundamentals  
 
 ---
 
