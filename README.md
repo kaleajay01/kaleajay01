@@ -39,7 +39,8 @@ I am passionate about **web development and programming**, and I focus on keepin
 - React.js and modern frontend development  
 - Frontend architecture and UI design  
 - Backend architecture and APIs  
-- Database fundamentals  
+- Database fundamentals
+- Technical fundamentals
 
 ---
 
