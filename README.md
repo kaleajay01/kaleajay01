@@ -12,7 +12,7 @@ I am passionate about **web development and programming**, and I focus on keepin
 - **Frontend:** HTML, CSS  
 - **Backend:** Node.js  
 - **Programming Language:** Python  
-- **Tools & Technologies:** Git, GitHub, VS Code
+- **Tools & Technologies:** GitHub, VS Code
 
 ---
 
