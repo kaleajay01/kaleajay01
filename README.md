@@ -45,6 +45,38 @@ I am passionate about **web development and programming**, and I focus on keepin
 - Database fundamentals
 - Technical fundamentals
 
+## 🛠️ Current Project
+
+🚧 **Project Name:** **TFLComentor**
+
+I am currently working on **TFLComentor**, a web-based project where I apply my web development and programming skills to build a practical and functional application.
+
+### 🔹 Project Overview
+
+TFLComentor is a project focused on improving my understanding of full-stack development. It involves designing a responsive interface and implementing backend logic to handle application functionality efficiently.
+
+### ⚙️ Technologies Used
+
+* HTML
+* CSS
+* JavaScript
+* Node.js
+* Git & GitHub
+
+### ✨ Features
+
+* Responsive and user-friendly interface
+* Backend functionality using Node.js
+* Clean and maintainable code structure
+* Version control using Git and GitHub
+
+### 🎯 Project Goal
+
+The goal of **TFLComentor** is to strengthen my practical development skills, understand full-stack development concepts, and build a real-world web application.
+
+📌 *This project is currently under development and will continue to improve with new features.*
+
+
 ---
 
 ## 🎯 Career Goal
