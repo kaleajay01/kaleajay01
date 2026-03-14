@@ -70,13 +70,6 @@ TFLComentor is a project focused on improving my understanding of full-stack dev
 * Clean and maintainable code structure
 * Version control using Git and GitHub
 
-### 🎯 Project Goal
-
-The goal of **TFLComentor** is to strengthen my practical development skills, understand full-stack development concepts, and build a real-world web application.
-
-📌 *This project is currently under development and will continue to improve with new features.*
-
-
 ---
 
 ## 🎯 Career Goal
