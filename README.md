@@ -29,6 +29,12 @@ I am passionate about **web development and programming**, and I focus on keepin
 
 ---
 
+## 📊 Github Streak Stats 
+
+![githubstreak](https://streak-stats.demolab.com?user=kaleajay01&theme=highcontrast&border_radius=5.4)
+
+---
+
 ## 🚀 What i'am learning
 - Build responsive and user-friendly web projects  
 - Practice backend development using Node.js  
