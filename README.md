@@ -51,6 +51,8 @@ I am passionate about **web development and programming**, and I focus on keepin
 - Database fundamentals
 - Technical fundamentals
 
+---
+
 ## 🛠️ Current Project
 
 🚧 **Project Name:** **TFLComentor**
@@ -68,6 +70,8 @@ TFLComentor is a project focused on improving my understanding of full-stack dev
 * JavaScript
 * Node.js
 * Git & GitHub
+
+--
 
 ### ✨ Features
 
